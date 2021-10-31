@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Chris Hess (He/Him)
-##Full Stack Developer
+### Chris Hess (He/Him)
+## Full Stack Developer
 
 Hey everyone! My name is Chris and I am currently finishing up my time at Prime Digital Academy. I am a former military musician and am incredibly excited to break into the software development industry. 
 
