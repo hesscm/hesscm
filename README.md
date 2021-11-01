@@ -5,6 +5,10 @@ Hey everyone! My name is Chris and I am currently finishing up my time at Prime 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hesscm&show_icons=true)
 
+### Technologies
+
+HTML, CSS , JavaScript, Python, Node.js , Postgres , SQL , React , Redux , Redux-Saga , Material-UI , Passport , Axios , Heroku , Moment.js , Spoonacular API
+
 ### What's below? 
 
 You can check out a few of my most recent React App projects. Definitely check out 'QuickMeals', which is my personal project I built in a 2 week time frame. I also completed a degree in Computer Science and have my final project from about a year ago listed below.
